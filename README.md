@@ -1,1 +1,1 @@
-# Time Series Forecasting for various applicaations
+# Time Series Forecasting for various applications
